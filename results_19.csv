@@ -1,0 +1,10 @@
+
+1618806339879,1019,HTTP Request,200,OK,Thread Group 1-1,text,true,,462,327,1,1,https://petstore.swagger.io/v2/store/order,1019,0,777
+1618806340899,243,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,172,1,1,https://petstore.swagger.io/v2/store/order/6,243,0,0
+1618806341144,243,HTTP Request,200,OK,Thread Group 1-1,text,true,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,242,0,0
+1618806399168,2937,HTTP Request,200,OK,Thread Group 1-1,text,true,,462,327,1,1,https://petstore.swagger.io/v2/store/order,2937,0,723
+1618806402106,2078,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,172,1,1,https://petstore.swagger.io/v2/store/order/6,2078,0,0
+1618806404185,242,HTTP Request,200,OK,Thread Group 1-1,text,true,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,242,0,0
+1618806407853,983,HTTP Request,200,OK,Thread Group 1-1,text,true,,462,327,1,1,https://petstore.swagger.io/v2/store/order,983,0,739
+1618806408835,245,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,172,1,1,https://petstore.swagger.io/v2/store/order/6,244,0,0
+1618806409080,238,HTTP Request,200,OK,Thread Group 1-1,text,true,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,238,0,0
